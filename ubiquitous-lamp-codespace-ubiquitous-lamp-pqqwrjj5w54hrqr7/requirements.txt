@@ -1,0 +1,7 @@
+transformers
+torchaudio
+tqdm
+torch
+streamlit
+pydub
+moviepy
